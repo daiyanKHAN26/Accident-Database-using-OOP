@@ -127,10 +127,6 @@ class Accident:
          j += 1
       return self.noi, self.inj_list
 
-  # Merge
-  def merge(self, a, b):
-
-
 
 # road accident subclass
 class road_acc(Accident):                       
